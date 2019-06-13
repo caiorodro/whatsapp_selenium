@@ -57,7 +57,7 @@ class whatsApp:
                 user = driver.find_element_by_xpath('//span[@title = "{}"]'.format(nick))
                 user.click()
 
-                textBox = driver.find_element_by_class_name('_2S1VP')
+                textBox = driver.find_element_by_class_name('_3u328')
 
                 now = datetime.datetime.now()
 
