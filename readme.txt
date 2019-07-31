@@ -1,3 +1,4 @@
+# whatsapp_selenium
 By using selenium library you can get direct access to final render of any active web page.
 
 The purpose of this software is to send messages 1 at a time to selected contacts from a web requests and operate like user does to send a message via web.whatsapp.com
